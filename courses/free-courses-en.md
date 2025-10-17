@@ -994,6 +994,7 @@
 * [Spring Boot Tutorials](https://www.youtube.com/playlist?list=PLhfxuQVMs-nx3YQa3XJ9-4g_EoK0J8WhU) - Daily Code Buffer (Shabbir Dawoodi)
 * [Spring Boot Tutorials Full Course](https://www.youtube.com/watch?v=35EQXmHKZYs) - Telusko (Navin Reddy)
 * [What is Java?](https://sagecode.net/java/index.html) - Elucian Moise (Sage-Code)
+* [Mastering Modern Java Programming: Beginner to Pro [2025]](https://springboard.udemy.com/course/java-programming-a-comprehensive-bootcamp-from-zero-to-hero/) - Eazy Bytes, Madan Reddy (udemy)
 
 
 ### JavaScript
